@@ -27,7 +27,8 @@ In this project, we'll use we'll use data containing 11 clinical features for pr
 
 After you perform your analysis, you will share your findings.
 
-Project Plan
+# Project Plan
+
 Import Data and Data Preprocessing
 
 Load data
