@@ -55,8 +55,6 @@ Deploy the Best Prediction Model
 Save the model
 Deploy using R
 
-Install and Load Required Libraries
-
 # Install required packages if not already installed
 if (!requireNamespace("tidyverse", quietly = TRUE)) {
   install.packages("tidyverse")
